@@ -1,0 +1,13 @@
+cat > my-favourite-food.txt <<EOF
+Pasta al Pomodoro
+Ingredients:
+- 200g spaghetti
+- 400g canned tomatoes
+- 2 cloves garlic
+- Olive oil, salt, basil
+
+Instructions:
+1. Boil pasta...
+2. Sauté garlic...
+EOF
+
