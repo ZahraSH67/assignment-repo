@@ -1,0 +1,9 @@
+Omelette
+Ingredients:
+- 2 eggs
+- Salt, pepper
+- Butter
+
+Instructions:
+1. Beat eggs...
+EOF
