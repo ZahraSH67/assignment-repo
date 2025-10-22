@@ -1,1 +1,2 @@
 Apples are red
+Apples are green, Apples are yellow
