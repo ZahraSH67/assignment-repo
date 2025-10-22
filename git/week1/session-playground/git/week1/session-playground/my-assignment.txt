@@ -1,2 +1,5 @@
 My assignment first line
 Second line
+This is third line, after that forth line comes! >> git/week1/session-playground/my-assignment.txt
+
+echo This is third line, after that forth line comes!
